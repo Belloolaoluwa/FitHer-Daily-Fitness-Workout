@@ -58,3 +58,6 @@ Sends push notifications for:
 - **Reliable:** Offline-first approach ensures continuity.  
 - **Secure:** Uses industry-standard data protection practices.
 
+# Wireframes
+Below is a visual representation of the proposed app structure:
+![alt text](<FitHer Wireframe.png>)
