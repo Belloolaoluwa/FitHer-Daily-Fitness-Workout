@@ -50,3 +50,11 @@ Sends push notifications for:
 - Collects anonymized usage data.  
 - Tracks active users, goal completions, and retention.  
 - Used for improving personalization algorithms.
+
+# Why This Architecture Works
+
+- **Modular:** Separate services for workouts, health tracking, and notifications.  
+- **Scalable:** Built with lightweight, well-supported frameworks.  
+- **Reliable:** Offline-first approach ensures continuity.  
+- **Secure:** Uses industry-standard data protection practices.
+
