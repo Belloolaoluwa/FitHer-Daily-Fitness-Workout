@@ -60,4 +60,7 @@ Sends push notifications for:
 
 # Wireframes
 Below is a visual representation of the proposed app structure:
-![alt text](<FitHer Wireframe.png>)
+
+![alt text](<FitHer Wireframe-1.png>)
+
+https://www.figma.com/design/zBQvgn1PrAZBucPl3pONYM/FitHer--Daily-Fitness-Workout-App?m=auto&t=hOXhxM3GBT4aECiw-6
