@@ -60,5 +60,4 @@ Sends push notifications for:
 
 # Wireframes
 Below is a visual representation of the proposed app structure:
-
 ![FitHer Wireframe](FitHer%20Wireframe.png)
